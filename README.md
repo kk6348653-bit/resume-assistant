@@ -3,8 +3,7 @@
 一键上传简历，AI自动生成候选人画像、匹配度评估和定制化面试问题。
 
 ## 在线体验
-https://resume-assistant.streamlit.app
-
+https://jian-li-fen-xi.streamlit.app/
 ## 功能
 - 支持 PDF/Word/TXT 格式
 - 自动提取姓名、工作年限、关键技能
